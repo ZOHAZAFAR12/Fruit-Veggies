@@ -18,7 +18,6 @@ A beautifully crafted FRONTEND DESIGN for a fruits and vegetables website. This 
 ## 🛠️ Tech Stack
 
 - **HTML5**
-- **CSS**
 - **Visual Studio Code** (as code editor)
 
 ---
@@ -33,11 +32,3 @@ A beautifully crafted FRONTEND DESIGN for a fruits and vegetables website. This 
 ![image](https://github.com/user-attachments/assets/e304a1fa-7bc3-4826-ad62-e62447076684)
 
 ---
-
-## 🚀 Getting Started
-
-To view this project locally:
-
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/yourusername/Fruits-veggies.git
