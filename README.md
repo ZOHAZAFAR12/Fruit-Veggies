@@ -34,4 +34,4 @@ A beautifully crafted FRONTEND DESIGN for a fruits and vegetables website. This 
 ---
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/Fruits-veggies.git
+   git clone https://github.com/ZOHAZAFAR12/Fruit-Veggies
